@@ -1,0 +1,10 @@
+#TODO's and things not yet implemeneted
+
+= Introduction =
+
+
+
+= Details =
+
+Yet to be implemented
+ * Interpolation for static samples
