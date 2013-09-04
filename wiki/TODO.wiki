@@ -1,8 +1,4 @@
-#TODO's and things not yet implemeneted
-
-= Introduction =
-
-
+TODO's and things not yet implemeneted
 
 = Details =
 
