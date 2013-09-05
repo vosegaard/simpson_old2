@@ -1,6 +1,6 @@
-#summary TODO's and things not yet implemeneted
+#summary TODO's and things not yet implemented
 
 = Details =
 
 Yet to be implemented
- * Interpolation for static samples
+ * Interpolation for static samples - ASG works now, FWT still missing
