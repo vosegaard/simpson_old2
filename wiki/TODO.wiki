@@ -3,5 +3,4 @@
 = Details =
 
 Yet to be implemented
- * Interpolation for static samples - done: ASG works nicely, FWT gets worse performance (inherent to usage of Wigner transform to follow orientational dependence)
- * loading crystallite files in binary format (large sets load slowly as text files) 
+ * compatibility with TCL 8.6
